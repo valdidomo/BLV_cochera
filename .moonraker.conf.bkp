@@ -20,6 +20,7 @@ cors_domains =
 	*://localhost:*
 	*://mainsail.local
 	*://fluidd.local
+	https://3d54.valdidomo.es
 
 [database]
 
